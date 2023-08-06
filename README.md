@@ -1,3 +1,11 @@
+# Live Demo:
+https://react-fetch-movies.netlify.app/
+
+# About this project: 
+Here I implement fetching functionality just. It's just a practice of how can fetch data from the API
+
+Hook used: useState,useEffect,useCallback
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
